@@ -1,0 +1,46 @@
+body {
+  background: #000000;
+}
+main {
+  background-color: #cdcaca;
+  text-align: center;
+  color: #000000;
+  margin: 20px;
+  border: solid 1px #000000;
+  padding: 10px;
+  border-radius: 15px;
+}
+#screen {
+  margin: 20px;
+  padding: 5px;
+  width: 12em;
+  height: 2em;
+  color: #000000;
+  font-size: 20px;
+  border: solid 1px #bc5b0e;
+  border-radius: 10px;
+  background: white;
+  text-align: right;
+}
+button {
+  background: #000000;
+  font-size: 40px;
+  height: 55px;
+  width: 55px;
+  margin: 5px;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 10px #5c5c5c;
+}
+button:hover {
+  background: #753200;
+  transition-duration: 1s;
+}
+.arith {
+  background: #bc5b0e;
+}
+.equal {
+  width: 6.5em;
+  background: #bc5b0e;
+}
